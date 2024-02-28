@@ -12,7 +12,7 @@ git clone https://github.com/awee1233/selfchain/
 ```
 - Make it executable
 ```
-cd selfchaind
+cd selfchain
 ```
 ```
 chmod +x autoinstall.sh
